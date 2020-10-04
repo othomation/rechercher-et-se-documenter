@@ -61,6 +61,16 @@ Cela nous est **précieux** : nous savons que même si nous ne connaissant pas l
 Ici, le `ON` permet de spécifier sur quelle entité nous souhaitons appliquer notre propriété. Si l'on avait marqué `CSS COLOR ON DIV`, nous aurions eu des résultats concernant... le fond ! Car on ne peut pas _colorer_ une div à proprement parler, mais nous pouvons lui changer le fond. Sinon, nous colorons le texte qui est enfant/inclus dans la div.
 ![Capture d'écran de la recherche CSS COLOR ON DIV](https://i.imgur.com/9JqzxQN.png)
 
+---
+
+#### Examples de recherches possibles :
+`CENTER VERTICAL CSS`
+`JS HTML CHANGE CLASS`
+`CSS DEFAULT VALUE FLEX DIRECTION`
+`THREE COLUMN FLEX`
+
+---
+
 ### Super, mais c'est un peu léger, non ?
 Oui. C'est pour cela qu'on peut être très précis avec nos recherches.
 Voici une liste, non exhaustive, des **tips & astuces** pour être plus rigoureux(se) lors d'une recherche Google (certains sont utilisables sur d'autres moteurs, mais, si tout va bien, vous pourrez les retrouver en appliquant la méthodologie de recherche !).
