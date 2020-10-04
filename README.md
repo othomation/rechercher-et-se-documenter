@@ -2,7 +2,7 @@
 -  Les recherches sont faites en anglais.
 -  Les recherches dont la capture d'écran est fournie sont toutes, systématiquement, effectuées en navigation privé, sans cache, pour ne pas tronquer les résultat. C'est normalement le même résultat, peu importe la machine ou l'historique d'utilisation de votre navigateur, sur une même tranche horaire et une même langue.
 - Vous êtes invités à tester au fur et à mesure du cours, des captures d'écrans n'étant par systématiquement faites, pour une question de lisibilité.
-- Vous pouvez contribuer à ce cours en effectuant une [Pull Request](https://opensource.com/article/19/7/create-pull-request-github) ou en ouvrant une [Issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue#:~:text=On%20GitHub%2C%20navigate%20to%20the,you'd%20like%20to%20open.).
+- Vous pouvez contribuer à ce cours en effectuant une [Pull Request](https://github.com/othomation/rechercher-et-se-documenter/pulls) ou en ouvrant une [Issue](https://github.com/othomation/rechercher-et-se-documenter/issues).
 
 ## RECHERCHER 
 
