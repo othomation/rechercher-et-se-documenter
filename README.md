@@ -262,7 +262,7 @@ Je laisse quelques ressources pratiques :
 
 [DevDocs](https://devdocs.io/) - Collection de documentations diverses, maintenu par diverses communautés.
 
-[MDN](https://developer.mozilla.org/fr/) - Mozilla Developer Netfowrk : des tutoriels, de la doc, des outils.
+[MDN](https://developer.mozilla.org/fr/) - Mozilla Developer Network : des tutoriels, de la doc, des outils.
 
 [Stack Overflow](https://stackoverflow.com/) - Des questions-réponses.
 
