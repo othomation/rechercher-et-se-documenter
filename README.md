@@ -259,7 +259,11 @@ C'est la fin de ce mini-cours sur `Rechercher, se documenter`.
 Je laisse quelques ressources pratiques :
 
 [Can I Use It](https://caniuse.com/) - Vérification de compatibilité de règles CSS. (principalement)
+
 [DevDocs](https://devdocs.io/) - Collection de documentations diverses, maintenu par diverses communautés.
+
 [MDN](https://developer.mozilla.org/fr/) - Mozilla Developer Netfowrk : des tutoriels, de la doc, des outils.
+
 [Stack Overflow](https://stackoverflow.com/) - Des questions-réponses.
+
 [VScode DOC](https://code.visualstudio.com/docs) - La documentation de VScode.
