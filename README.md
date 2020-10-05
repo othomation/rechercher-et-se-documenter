@@ -157,7 +157,9 @@ Car l'on aura pas toujours un(e) mentor pour nous expliquer, nous aiguiller, nou
 En général, elle est en anglais, disponible en ligne et en version téléchargeable. Les deux sont bonnes à avoir, sais-on jamais. On peut également l'intégrer à notre éditeur de texte (du type VScode !), pour ne jamais quitter notre fenêtre (mais ne soyons pas casaniers, baladons nous sur internet). 
 
 Par ailleurs, si vous effectuez un `hover` sur une propriété dans VScode, vous remarquerez qu'un petit encart apparaît, avec des mini-explications et une visualisation des potentielles valeurs que vous pourriez attribuer à cette propriété. Et vous avez un lien vers la documentation en général.
+
 ![Capture d'écran de mini doc sur VScode](https://i.imgur.com/HiMqRrv.png)
+
 Si j'appuie sur `MDN Reference`, je suis redirigé sur : https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin .
 
 
